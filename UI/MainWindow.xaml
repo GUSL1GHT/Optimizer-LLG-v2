@@ -1,0 +1,11 @@
+<Window x:Class="OptimizerLLG.UI.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="OptimizerLLG - PresentMon" Height="250" Width="400">
+ <Grid Margin="20">
+   <StackPanel>
+     <TextBox Name="ProcessBox" Height="30" Margin="0,0,0,10" Text="nombrejuego.exe"/>
+     <Button Content="Iniciar captura" Click="StartPresentMon"/>
+   </StackPanel>
+ </Grid>
+</Window>

@@ -1,0 +1,8 @@
+[Fake CPU]
+CPU Temp: 66
+CPU Load: 34,2
+
+[Fake GPU]
+GPU Temp: 52,4
+GPU Load: 19,8
+

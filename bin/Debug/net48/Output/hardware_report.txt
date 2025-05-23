@@ -1,0 +1,75 @@
+== SYSTEMINFO ==
+
+Nombre de host:                            LEGION
+Nombre del sistema operativo:              Microsoft Windows 11 Home
+Versi¢n del sistema operativo:             10.0.26100 N/D Compilaci¢n 26100
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propietario registrado:                    mitnickthompson@gmail.com
+Organizaci¢n registrada:                   N/D
+Id. del producto:                          00342-22101-51110-AAOEM
+Fecha de instalaci¢n original:             07/05/2025, 20:54:04
+Tiempo de arranque del sistema:            20/05/2025, 11:52:46
+Fabricante del sistema:                    LENOVO
+Modelo del sistema:                        83E1
+Tipo de sistema:                           x64-based PC
+Procesadores:                              1 Procesadores instalados.
+                                           [01]: AMD64 Family 25 Model 116 Stepping 1 AuthenticAMD ~3301 Mhz
+Versi¢n del BIOS:                          LENOVO N3CN38WW, 07/03/2025
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es;Espa¤ol (tradicional)
+Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, Par¡s
+Memoria f¡sica total:                      9.925 MB
+Memoria f¡sica disponible:                 1.547 MB
+Memoria virtual: tama¤o m ximo:            19.494 MB
+Memoria virtual: disponible:               8.040 MB
+Memoria virtual: en uso:                   11.454 MB
+Ubicaciones de archivos de p gina:         C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\LEGION
+Revisiones:                                5 revisi¢n(es) instaladas.
+                                           [01]: KB5056579
+                                           [02]: KB5050575
+                                           [03]: KB5059093
+                                           [04]: KB5058411
+                                           [05]: KB5058523
+Tarjetas de red:                           2 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek USB GbE Family Controller
+                                                 Nombre de conexi¢n: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [02]: RZ616 Wi-Fi 6E 160MHz
+                                                 Nombre de conexi¢n: Wi-Fi
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.1.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.1.36
+                                                 [02]: fe80::6776:92ee:6ce1:6d56
+                                                 [03]: fd94:9550:3f77:48a4:45b7:f069:4b0c:535e
+                                                 [04]: fd94:9550:3f77:48a4:fb83:d2db:d3cf:ee5b
+Seguridad basada en virtualizaci¢n:        Estado:ÿEn ejecuci¢n
+                                           Propiedades de seguridad requeridas:
+                                                 Compatibilidad con la virtualizaci¢n base
+                                           Propiedades de seguridad disponibles:
+                                                 Compatibilidad con la virtualizaci¢n base
+                                                 Arranque seguro
+                                                 Protecci¢n de DMA
+                                                 C¢digo UEFI de solo lectura
+                                                 SMM Security Mitigations 1.0
+                                                 Control de ejecuci¢n basado en el modo
+                                           Services Configured:
+                                           Services Running:
+                                           App Control for Business policy: Forzado
+                                           App Control for Business user mode policy: Auditor¡a
+                                           Caracter¡sticas de seguridad habilitadas:
+Requisitos Hyper-V:                        Se detect¢ un hipervisor. No se mostrar n las caracter¡sticas necesarias para Hyper-V.
+
+== CPU ==
+
+== MEMORY ==
+
+== GPU ==
+

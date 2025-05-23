@@ -1,0 +1,2 @@
+using System.Windows;
+namespace OptimizerLLG.Core { public static class AMDSettingsGuide { public static void Show(string mode) => MessageBox.Show("Abra AMD Adrenalin y seleccione perfil " + mode); } }
